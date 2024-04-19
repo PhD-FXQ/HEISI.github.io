@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FEE6F5; /* 设置粉红色背景 */
+}
+h3.inline {
+    display: inline; /* 或者 display: inline-block; */
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: white; /* 添加白色背景以突出内容 */
+    border-radius: 10px; /* 可选：添加圆角边框 */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* 可选：添加阴影效果 */
+}
+
+
+.header___3lIJz .nav___1H1Tj {
+		display: flex;
+		grid-gap: 3vw;
+		gap: 3vw;
+		margin-left: 8px
+	}
+.header___3lIJz .nav___1H1Tj a {
+		font-weight: 700
+	}
+
+.main___1ffri {
+	display: flex;
+	position: relative;
+	overflow: hidden
+}
+
+.main___1ffri .mainBg___JKF8i {
+	width: 100%;
+	height: 1084px;
+	object-fit: cover;
+	object-position: 50% 50%;
+	opacity: .1;
+	position: absolute;
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	z-index: -1
+}
+
+.main___1ffri .mainContent___3487l {
+	position: relative;
+	z-index: 1;
+	width: 980px;
+	display: flex;
+	font-size: 32px;
+	margin: 120px auto 0
+}
+
+.main___1ffri .mainContent___3487l .mainTitle___336p0 {
+	font-size: 48px;
+	font-weight: 700
+}
+
+.main___1ffri .mainContent___3487l .mainImages___3SjWk {
+	display: flex;
+	margin-top: 100px;
+	grid-gap: 20px;
+	gap: 20px
+}
+
+.main___1ffri .mainContent___3487l .mainImages___3SjWk img {
+	width: 100px
+}
+.mainArb___2oPU1 {
+		font-size: 18px;
+		word-break: break-all;
+		margin-top: 16px;
+		text-align: left
+	}
+.mainArb___2oPU1 {
+	font-size: 32px;
+	text-align: center;
+	margin-top: 24px
+}
+.header___3lIJz .logo___3-F7Q .logoImage___3i5XT {
+		width: 13.3333vw;
+	}
+.header___3lIJz .logo___3-F7Q .logoImage___3i5XT {
+	width: 42px;
+	margin-top: 28px;
+	margin-left: 4%;
+}
+.main___1ffri .mainRight___3lcbJ img {
+	width: 150px;
+	margin-right: 20%
+}
+.header___3lIJz .nav___1H1Tj {
+		display: flex;
+		grid-gap: 3vw;
+		gap: 3vw;
+		margin-left:4%
+	}
+.main___1ffri .mainRight___3lcbJ img {
+		
+	}
